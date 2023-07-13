@@ -1,6 +1,6 @@
 ### Hello there! Eu sou o Marcelo Henrique.
 
-- SQL
+
 - Atualmente trabalho com analise de dados
 - Estudando C# e Java
 
