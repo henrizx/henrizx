@@ -1,6 +1,6 @@
 ### Hello there! Marcelo Henrique here.
-- Atualmente trabalho com analise de dados
-- Estudando C# e Java
+- Currently, I work in data analysis.
+- I am studying C# and Java.
 
 <div>
   <a href="https://github.com/henrizx">
