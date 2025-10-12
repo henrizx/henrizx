@@ -1,6 +1,5 @@
-# 👋 Olá, eu sou Marcelo Henrique
-
-Desenvolvimento de Sistemas | Aspirante a Desenvolvedor C# & Go
+# 👋 Hello there! I,m Marcelo Henrique
+Junior Developer | Aspiring C# & Go Developer
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henrizx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Estatísticas do GitHub" />
