@@ -1,25 +1,26 @@
-# 👋 Hello there, I'm Marcelo Henrique
+# 👋 Olá, eu sou Marcelo Henrique
 
-System Development | Aspiring C# & Go Developer  
+Desenvolvimento de Sistemas | Aspirante a Desenvolvedor C# & Go
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henrizx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henrizx&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henrizx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrizx&layout=compact&langs_count=8&card_width=320&theme=jolly&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
 
-## 💻 My Skills
+## 💻 Minhas Habilidades
 <div style="display: inline_block">
   <img align="center" alt="SQL" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Python" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="C#" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
   <img align="center" alt="Java" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Go" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 </div>
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Conecte-se Comigo
 <div>
   <a href="https://www.instagram.com/just_marselo/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
