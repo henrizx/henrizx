@@ -8,18 +8,22 @@ Junior Developer | Aspiring C# & Go Developer
 
 ---
 
-## 💻 Minhas Habilidades
+## 💻 My Skills
 <div style="display: inline_block">
-  <img align="center" alt="SQL" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MySQL" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Python" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="C#" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
   <img align="center" alt="Java" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Go" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img align="center" alt="PL/SQL" height="38" width="40" src="https://www.svgrepo.com/show/373980/plsql.svg" />
+  <img align="center" alt="Delphi" height="38" width="40" src="https://img.icons8.com/ios/452/delphi.png" />
+  <img align="center" alt="C" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
+
 
 ---
 
-## 🔗 Conecte-se Comigo
+## 🔗 Connect with me
 <div>
   <a href="https://www.instagram.com/just_marselo/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
