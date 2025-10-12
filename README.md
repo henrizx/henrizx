@@ -16,7 +16,7 @@ Junior Developer | Aspiring C# & Go Developer
   <img align="center" alt="Java" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Go" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="PL/SQL" height="38" width="40" src="https://www.svgrepo.com/show/373980/plsql.svg" />
-  <img align="center" alt="Delphi" height="38" width="40" src="https://img.icons8.com/ios/452/delphi.png" />
+  <img align="center" alt="Delphi" height="38" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/delphi/delphi-plain.svg" />
   <img align="center" alt="C" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
